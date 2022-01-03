@@ -1,2 +1,2 @@
-# BMI-Calculator-using-JavaScript
+# BMI Calculator
 BMI Calculator using JavaScript
